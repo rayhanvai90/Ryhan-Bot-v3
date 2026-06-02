@@ -18,7 +18,7 @@
     "ignoreCommand": []
   },
 "adminBot": [
-    "100037951718438"
+    "61579066187293"
   ],
   "whiteListMode": {
     "enable": false,
@@ -26,7 +26,7 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "RayhanBot V3",
-  "prefix": "$",
+  "prefix": "&",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
