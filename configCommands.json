@@ -7,12 +7,12 @@
   "envCommands": {
     "daily": {
       "rewardDay1": {
-        "coin": 500,
-        "exp": 500
+        "coin": 100,
+        "exp": 10
       },
       "rewardFirstDay": {
-        "coin": 500,
-        "exp": 500
+        "coin": 100,
+        "exp": 10
       }
     },
     "notification": {
@@ -28,7 +28,7 @@
       "limitResult": 3
     },
     "dhbc": {
-      "reward": 2000
+      "reward": 1000
     }
   },
   "envEvents": {
